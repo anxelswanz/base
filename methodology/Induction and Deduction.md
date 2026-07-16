@@ -16,3 +16,5 @@ For example, people saw 1,000 swans are white, we can induct that all swans are 
     
 
 > **逻辑漏洞：** 前提里只说了“快乐”，结论却变成了“纯粹的精神自由”。虽然两者在日常生活中可能有联想，但在严密的逻辑网里，“精神自由”就是一个未经推导的**新概念**。
+
+

@@ -40,4 +40,17 @@ In order to be back to homeostasis, the brain has to put some gremlins to balanc
 >[!anhedonia, which is the inability to enjoy pleasure of any kind]
 
 
+> Studies indicate that dopamine release as a result of gambling links to the
+> **unpredictability of the reward delivery,** as much as to the final (often monetary) reward itself. **That means our brains are hooked in the maze and mystery, not just the price**
+
+Many gamblers may want to lose, because the more they lose, the stronger the urge to gamble and  stronger the rush when they win. Something similar is going on with the social media apps, where response of others is so unpredicable and capricious that uncertainty of getting a like or equivalent is as reinforcing as getting a like itself.
+
+[[Ex-Facebook president Sean Parker - site made to exploit human 'vulnerability']]
+Sean Parker, who was Ex-Facebook president, publicly admitted that Facebook exploits human vulnerabilities when they designed "like" button, with the sole purpose of giving users "a little dopamine hit"
+
+
+
+
+
+
 page 49

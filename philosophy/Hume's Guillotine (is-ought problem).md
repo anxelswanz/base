@@ -9,7 +9,7 @@ We cannot derive 'moral values' (judgments) purely and directly from 'objective 
 
 For example, why people believe there's going to be a sunrise tomorrow?
 Because in the past millions and billions years, the sun rose every single day. But actually, there's a hidden premise, that is people assume the past will be the same as the future. But there could be a sudden lose of gravity or sun exploded that could entirely break this belief.
-Therefore induction reasoning cannot be rationally proven.
+Therefore induction reasoning [[Induction and Deduction]]cannot be rationally proven.
 
 
 

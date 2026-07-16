@@ -32,3 +32,13 @@ When facing pleasure, pain, desire and fear, man's convictions never fade.
 我们必须让每一个人在城邦中担任一项最适合他天性的社会职务……而且，**这种各司其职、互不干涉（管闲事）的状态就是正义**。这一点我们不仅听别人说过，自己也经常挂在嘴边。
 
 Righteousness is essentially the perservation of the three virtues above.
+
+Socrates compared reason, desire, and spirit to three different musical notes, and justice is the harmony maintained among these three notes.
+
+## 3. Three Parts of the Soul 
+
+理智 Logistikon Reason 
+血气 Thumos Spirit 
+欲望 Epithumetikon desire 
+
+罗翔的观点非常好，勇敢做我自己，那么你要勇敢做你自己的哪个部分呢？
