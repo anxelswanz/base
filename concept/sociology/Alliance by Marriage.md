@@ -1,0 +1,2 @@
+
+Alliance by Marriage is a subset of arraged marriage. A marriage practice in which two prominent families, social classses, conglomerates or nations facilitate a union for specific purposes, beyond their mutual affection, thereby achieving resource sharing, interest alignment or the consolidation of relationships.

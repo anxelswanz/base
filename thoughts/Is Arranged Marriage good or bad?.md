@@ -1,0 +1,4 @@
+
+The ethics of arranged marriage hinge entirely on "coersion" and "concsent". If two individuals are coerced, threatened to enter the marriage without full and free consent, it is a direct violation of human rights. [[Universal Declaration of Human Rights#Article 16]]
+
+If two individuals have full agency and ultimate veto power and at the same time agree to the union, that is compatible with human rights. One case is two individuals view themselves through this pragmatic lens, they derive satisfaction not necessarily from romantic love initially, but from shared duty, mutual respect and the building or a legacy and they accept the marriage as a partnership or "joint venture", it is compatible with human rights.
