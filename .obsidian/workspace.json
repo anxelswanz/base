@@ -27,28 +27,44 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/125c9c5757f2892e2017cceb53ca2334.jpg",
+                "file": "culture/Germany/Nazi/Iron Cross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 125c9c5757f2892e2017cceb53ca2334"
+              "title": "Outgoing links from Iron Cross"
             }
           },
           {
             "id": "0759a296ff197dbf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/125c9c5757f2892e2017cceb53ca2334.jpg"
+                "file": "culture/Germany/Hanseatic League/European Fur in Middale Age.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "125c9c5757f2892e2017cceb53ca2334"
+              "icon": "lucide-file",
+              "title": "European Fur in Middale Age"
+            }
+          },
+          {
+            "id": "9de4bad9dc9adf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "culture/Germany/post world war/DDR & BRD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DDR & BRD"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/125c9c5757f2892e2017cceb53ca2334.jpg",
+                "file": "culture/Germany/Nazi/Iron Cross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 125c9c5757f2892e2017cceb53ca2334"
+              "title": "Backlinks for Iron Cross"
             }
           },
           {
@@ -169,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/125c9c5757f2892e2017cceb53ca2334.jpg",
+                "file": "culture/Germany/post world war/DDR & BRD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 125c9c5757f2892e2017cceb53ca2334"
+              "title": "Outline of DDR & BRD"
             }
           }
         ],
@@ -196,54 +212,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "0759a296ff197dbf",
+  "active": "9de4bad9dc9adf5a",
   "lastOpenFiles": [
-    "attachments/25a114099f7860a4861a0ce58e54024a.jpg",
+    "attachments/682086a316b316fc22917e6e299b9a5d.jpg",
+    "country/Germany/Berlin.md",
+    "culture/Germany/post world war/DDR & BRD.md",
+    "culture/Germany/post world war",
+    "culture/Germany/Untitled.md",
+    "attachments/dbb3444e8db9c817142f7e583bdb80a4.jpg",
+    "culture/Germany/Nazi/Iron Cross.md",
+    "attachments/Pasted image 20260720001103.png",
+    "attachments/IMG_0420.png",
+    "attachments/IMG_0420.heic",
+    "attachments/37d83193725050bc8f2271365e26360a.jpg",
+    "culture/Germany/Nazi/Weimar Republic.md",
+    "culture/Germany/Nazi/Casualties of Soviet Prisoners of War (POW).md",
+    "culture/Germany/Nazi/Third Reich.md",
+    "culture/Germany/Nazi/Enabling Act.md",
+    "attachments/a2b6cdc45a1c89d5768a87eefac58872.jpg",
+    "attachments/85d1e708b3f503428e43a1297b578ba2.jpg",
+    "culture/Germany/Nazi/The Last Jew in Vinnistsa.md",
+    "attachments/ca373c89ab2a9e8f6484eba5a0a6ffb0.jpg",
+    "culture/Germany/Nazi/T4 Action.md",
+    "culture/Germany/Nazi/WHV (Winterhilfswerk).md",
+    "culture/Germany/Nazi/Volk Community.md",
+    "attachments/9a017c3f2e060c149694ac7167ac6cdb.jpg",
+    "culture/Germany/Nazi/SS.md",
+    "attachments/c32f02758d14b5fa91088010682a3fc1.jpg",
+    "attachments/9f5e6e3a0b4d534f38ef13572cfbfab7.jpg",
+    "culture/Germany/Nazi/SA.md",
+    "culture/Germany/Hanseatic League/European Fur in Middale Age.md",
+    "culture/Germany/Nazi",
+    "culture/Germany/Hanseatic League/Hanse Privilege.md",
+    "culture/Germany/Hanseatic League",
     "country/Germany/Lübeck (Queen of Hanseatic League).md",
-    "attachments/12c7f674ac23ab30759ebe109b3f3738.jpg",
-    "attachments/63a582d665e0d89f43d73523c981fb11.jpg",
-    "attachments/26547d8b64a095f45a1528e61444ad4e.jpg",
-    "culture/Germany/Johann Wittenborg.md",
+    "culture/Germany/Hanseatic League/Johann Wittenborg.md",
     "country/Germany/Hamburg (Free and Hanseatic City of Hamburg).md",
-    "culture/Germany/European Fur in Middale Age.md",
-    "culture/Germany/Hanse Privilege.md",
-    "attachments/2bcb063fc39c8908e0938aa8ee66999c.jpg",
-    "attachments/7f5de2db55185bb6b9643192b006f14d.jpg",
-    "culture/Germany/Klaus Störtebeker.md",
-    "culture/Germany/Hanseatic League.md",
-    "culture/Germany/Low German Merchants (12-17 Centuary).md",
-    "attachments/125c9c5757f2892e2017cceb53ca2334.jpg",
-    "attachments/cce677d98ee613290bf8df69fa13d0a5.jpg",
-    "attachments/620b90863c9e99a6915c157c5dfbb50d.jpg",
-    "attachments/63c0e73567b83531c9bd8510822aeb30.jpg",
-    "attachments/cdd11880f4033b5e7094559e590ced23.jpg",
+    "culture/Germany/Hanseatic League/Klaus Störtebeker.md",
+    "culture/Germany/Hanseatic League/Hanseatic League.md",
+    "culture/Germany/Hanseatic League/Low German Merchants (12-17 Centuary).md",
     "religion/Calvinism.md",
     "religion/Martin Luther.md",
     "religion/Presbyterians.md",
-    "methodology/Zettelkasten Methodology.md",
-    "philosophy/Plato/The Republic.md",
-    "2026-07-18.md",
     "Untitled.base",
     "Untitled.canvas",
     "attachments",
-    "culture/Germany/Hamburg.md",
-    "thoughts/Is Arranged Marriage good or bad?.md",
-    "concept/law/Universal Declaration of Human Rights.md",
     "country/Germany",
-    "facts/Latent Cognition & Expressed Cognition.md",
-    "facts/Ex-Facebook president Sean Parker - site made to exploit human 'vulnerability'.md",
-    "concept/sociology/Adhocracy.md",
-    "concept/sociology/Bureaucracy.md",
-    "concept/sociology/Iron Cage.md",
     "concept/law",
-    "concept/sociology/Alliance by Marriage.md",
     "thoughts",
-    "religion",
-    "culture/Germany",
-    "country",
-    "culture",
-    "concept/sociology",
-    "philosophy/Plato/Symposium.md",
-    "methodology/Induction and Deduction.md"
+    "religion"
   ]
 }

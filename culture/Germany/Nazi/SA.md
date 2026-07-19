@@ -1,0 +1,1 @@
+It means "Storm Troops" 纳粹冲锋队. It was the original paramilitary wing of Adolf Hitler and the Nazi party.
