@@ -1,0 +1,2 @@
+
+Proletarianization refers to a concept in Marxist economics that describes the historical or social process through which social classes - such as self-employed individuals, independent producers or the bourgeoisie - are transformed into wage laborers ([[Proletariat]]) who rely on selling their labor power to earn a salary or wages.

@@ -1,9 +1,12 @@
 
-Deduction is reasoning from general concept to particular concept.
-For example, everybody dies, we can deduct that Socrates dies.
+Deduction (演绎法) is reasoning from general concept to particular concept.
 
-Induction is reasoning from particular concept to general concept.
+For example, everybody dies, we can deduct that Socrates dies.
+It's used in Math, Law, Geometry.
+
+Induction (归纳法) is reasoning from particular concept to general concept.
 For example, people saw 1,000 swans are white, we can induct that all swans are white.
+It's used in Data Analytics, Scientific Experiments, Market Research.
 
 
 **不能在没有铺垫的情况下，凭空在结论里蹦出一个全新的词汇或概念。** 如果结论里出现了前提没提过的新东西，这个推论在逻辑上就是**无效的

@@ -1,0 +1,2 @@
+
+Post Literacy refers to a societal and cultural shift where traditional reading and writing are no longer a dominant or preferred methods of consuming information. Instead, people would choose to bypass text in favour of visual, auditory and interactive media (such as short-form video, podcasts, voice interfaces, etc.)

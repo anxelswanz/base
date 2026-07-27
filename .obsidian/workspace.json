@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "culture/Germany/post world war/DDR & BRD.md",
+                "file": "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDR & BRD"
+              "title": "Critical Reasoning for Beginners - Mary Ann Tolbert"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cogni",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "culture/Germany/post world war/DDR & BRD.md",
+                "file": "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DDR & BRD"
+              "title": "Outline of Critical Reasoning for Beginners - Mary Ann Tolbert"
             }
           }
         ],
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,52 +215,52 @@
   },
   "active": "9de4bad9dc9adf5a",
   "lastOpenFiles": [
+    "concept/logic/Induction and Deduction.md",
+    "concept/logic/Arguments.md",
+    "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
+    "concept/logic/Assertion.md",
+    "book/Dopamine Nations.md",
+    "book/The Notes from Dopamine Nation.md",
+    "thoughts/The pros and cons of Post Literacy.md",
+    "thoughts/Is Arranged Marriage good or bad?.md",
+    "concept/psychology/Shame & Guilt.md",
+    "concept/psychology/False Self.md",
+    "concept/psychology",
+    "thoughts/Why should we consume right amount of pain.md",
+    "Untitled.md",
+    "philosophy/Hume's Guillotine (is-ought problem).md",
+    "methodology/management/Scientific Management (Frederick Taylor 20 Centuary).md",
+    "methodology/First Principle Mindset.md",
+    "philosophy/Metaphysics.md",
+    "philosophy/Liberal Education.md",
+    "philosophy/Epistemology/Epistemology.md",
+    "philosophy/Epistemology/Relativism.md",
+    "philosophy/Epistemology/Rationalism.md",
+    "concept/logic/Premise.md",
+    "concept/logic/Conclusion.md",
+    "concept/logic/Conditional Statements.md",
+    "concept/logic",
+    "history/1 intro.md",
+    "lectures",
+    "media/statement/Working class took the brunt of the Industrial Revolution.md",
+    "history/1750-1850 Enclosure Movement in Industrial Revolution.md",
+    "media/statement",
+    "media/podcast",
+    "Untitled.base",
+    "concept/politics",
+    "history",
+    "book",
+    "concept/economics",
     "attachments/682086a316b316fc22917e6e299b9a5d.jpg",
-    "country/Germany/Berlin.md",
-    "culture/Germany/post world war/DDR & BRD.md",
-    "culture/Germany/post world war",
-    "culture/Germany/Untitled.md",
     "attachments/dbb3444e8db9c817142f7e583bdb80a4.jpg",
-    "culture/Germany/Nazi/Iron Cross.md",
     "attachments/Pasted image 20260720001103.png",
     "attachments/IMG_0420.png",
-    "attachments/IMG_0420.heic",
     "attachments/37d83193725050bc8f2271365e26360a.jpg",
-    "culture/Germany/Nazi/Weimar Republic.md",
-    "culture/Germany/Nazi/Casualties of Soviet Prisoners of War (POW).md",
-    "culture/Germany/Nazi/Third Reich.md",
-    "culture/Germany/Nazi/Enabling Act.md",
     "attachments/a2b6cdc45a1c89d5768a87eefac58872.jpg",
     "attachments/85d1e708b3f503428e43a1297b578ba2.jpg",
-    "culture/Germany/Nazi/The Last Jew in Vinnistsa.md",
     "attachments/ca373c89ab2a9e8f6484eba5a0a6ffb0.jpg",
-    "culture/Germany/Nazi/T4 Action.md",
-    "culture/Germany/Nazi/WHV (Winterhilfswerk).md",
-    "culture/Germany/Nazi/Volk Community.md",
     "attachments/9a017c3f2e060c149694ac7167ac6cdb.jpg",
-    "culture/Germany/Nazi/SS.md",
     "attachments/c32f02758d14b5fa91088010682a3fc1.jpg",
-    "attachments/9f5e6e3a0b4d534f38ef13572cfbfab7.jpg",
-    "culture/Germany/Nazi/SA.md",
-    "culture/Germany/Hanseatic League/European Fur in Middale Age.md",
-    "culture/Germany/Nazi",
-    "culture/Germany/Hanseatic League/Hanse Privilege.md",
-    "culture/Germany/Hanseatic League",
-    "country/Germany/Lübeck (Queen of Hanseatic League).md",
-    "culture/Germany/Hanseatic League/Johann Wittenborg.md",
-    "country/Germany/Hamburg (Free and Hanseatic City of Hamburg).md",
-    "culture/Germany/Hanseatic League/Klaus Störtebeker.md",
-    "culture/Germany/Hanseatic League/Hanseatic League.md",
-    "culture/Germany/Hanseatic League/Low German Merchants (12-17 Centuary).md",
-    "religion/Calvinism.md",
-    "religion/Martin Luther.md",
-    "religion/Presbyterians.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "attachments",
-    "country/Germany",
-    "concept/law",
-    "thoughts",
-    "religion"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+It refers to the class of ordinary people who earn money by working, especially those who do not own any property.

@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 # 柏拉图《会饮篇》深度解析
 
 A symposium is an after-dinner drinking party by the aristocratic males of the time.

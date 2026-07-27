@@ -35,7 +35,7 @@ Righteousness is essentially the perservation of the three virtues above.
 
 Socrates compared reason, desire, and spirit to three different musical notes, and justice is the harmony maintained among these three notes.
 
-## 3. Three Parts of the Soul 
+## 3. Three Parts of the Soul (Platonic tripartite soul)
 
 理智 Logistikon Reason 
 血气 Thumos Spirit 

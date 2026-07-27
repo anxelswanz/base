@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "cd \"/Users/ronghuizhong/Documents/Journal/Knowledge Base/base\" && find . -maxdepth 1 -type d | sort",
+      "ls -p /Users/ronghuizhong/Documents/Journal/Knowledge\\ Base/base/ | grep -v / | head -30"
+    ]
+  }
+}
