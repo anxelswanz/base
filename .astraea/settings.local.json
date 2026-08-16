@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "cd \"/Users/ronghuizhong/Documents/Journal/Knowledge Base/base\" && find . -maxdepth 1 -type d | sort",
-      "ls -p /Users/ronghuizhong/Documents/Journal/Knowledge\\ Base/base/ | grep -v / | head -30"
+      "ls -p /Users/ronghuizhong/Documents/Journal/Knowledge\\ Base/base/ | grep -v / | head -30",
+      "cd \"/Users/ronghuizhong/Documents/Journal/Knowledge Base/base\" && echo \"=== philosophy ===\" && ls philosophy && echo \"=== politics check ===\" && ls | grep -iE \"polit|concept|religion|history|culture\"",
+      "cd \"/Users/ronghuizhong/Documents/Journal/Knowledge Base/base\" && ls concept && echo \"=== religion ===\" && ls religion",
+      "cd \"/Users/ronghuizhong/Documents/Journal/Knowledge Base/base\" && echo \"=== politics ===\" && ls concept/politics && echo \"=== philosophy subdirs ===\" && ls philosophy/Western\\ Philosophy 2>/dev/null"
     ]
   }
 }

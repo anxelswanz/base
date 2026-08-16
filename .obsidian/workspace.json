@@ -8,63 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7381d1023505304d",
+            "id": "23b0c4ccbae6f155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "country/Germany/Hamburg (Free and Hanseatic City of Hamburg).md",
+                "file": "country/UK/Sheffield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamburg (Free and Hanseatic City of Hamburg)"
+              "title": "Sheffield"
             }
           },
           {
-            "id": "8ad13002e9187eec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "culture/Germany/Nazi/Iron Cross.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Iron Cross"
-            }
-          },
-          {
-            "id": "0759a296ff197dbf",
+            "id": "7e530decdc114e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "culture/Germany/Hanseatic League/European Fur in Middale Age.md",
+                "file": "book/Nassim Nicholas Taleb/the Black Swan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "European Fur in Middale Age"
-            }
-          },
-          {
-            "id": "9de4bad9dc9adf5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Critical Reasoning for Beginners - Mary Ann Tolbert"
+              "title": "the Black Swan"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
+                "file": "country/UK/Sheffield.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Critical Reasoning for Beginners - Mary Ann Tolbert"
+              "title": "Outline of Sheffield"
             }
           }
         ],
@@ -213,44 +184,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "9de4bad9dc9adf5a",
+  "active": "23b0c4ccbae6f155",
   "lastOpenFiles": [
-    "concept/logic/Induction and Deduction.md",
-    "concept/logic/Arguments.md",
+    "attachments/fc365c4c449b7aefd587fa7f882c600d.jpg",
+    "culture/England/Sheffield.md",
+    "languages/English Learned in Sheffield.md",
+    "book/Tim Cooper/The Story of Sheffield.md",
+    "country/UK/Sheffield.md",
+    "attachments/a73ad8b61f7a150dec41fdccb64489b0.jpg",
+    "country/UK",
+    "religion/Presbyterians.md",
+    "religion/Nonconformist.md",
+    "book/Plato/The Republic.md",
+    "book/Tim Cooper",
+    "concept/politics/Liberty.md",
+    "concept/politics/Aristocracy.md",
+    "book/Anna Lembke/Dopamine Nations.md",
+    "lectures/The Dating Game.md",
+    "book/Nassim Nicholas Taleb/the Black Swan.md",
+    "concept/logic/Venn Diagram.md",
     "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
-    "concept/logic/Assertion.md",
-    "book/Dopamine Nations.md",
-    "book/The Notes from Dopamine Nation.md",
-    "thoughts/The pros and cons of Post Literacy.md",
-    "thoughts/Is Arranged Marriage good or bad?.md",
-    "concept/psychology/Shame & Guilt.md",
-    "concept/psychology/False Self.md",
-    "concept/psychology",
-    "thoughts/Why should we consume right amount of pain.md",
-    "Untitled.md",
-    "philosophy/Hume's Guillotine (is-ought problem).md",
-    "methodology/management/Scientific Management (Frederick Taylor 20 Centuary).md",
-    "methodology/First Principle Mindset.md",
-    "philosophy/Metaphysics.md",
-    "philosophy/Liberal Education.md",
+    "philosophy/Western Philosophy/Liberal Education.md",
+    "concept/logic/Paradox.md",
+    "philosophy/Western Philosophy/Metaphysics.md",
+    "philosophy/Western Philosophy/Hume's Guillotine (is-ought problem).md",
+    "concept/sociology/Survival Bias.md",
+    "culture/England",
+    "philosophy/Ontology/Ontology.md",
+    "languages",
+    "philosophy/Ontology/Idealism.md",
+    "philosophy/Ontology/Materialism.md",
     "philosophy/Epistemology/Epistemology.md",
-    "philosophy/Epistemology/Relativism.md",
-    "philosophy/Epistemology/Rationalism.md",
-    "concept/logic/Premise.md",
-    "concept/logic/Conclusion.md",
-    "concept/logic/Conditional Statements.md",
-    "concept/logic",
-    "history/1 intro.md",
-    "lectures",
-    "media/statement/Working class took the brunt of the Industrial Revolution.md",
-    "history/1750-1850 Enclosure Movement in Industrial Revolution.md",
-    "media/statement",
-    "media/podcast",
-    "Untitled.base",
-    "concept/politics",
-    "history",
-    "book",
-    "concept/economics",
+    "philosophy/Ontology",
+    "philosophy/Epistemology/Empiricism.md",
+    "philosophy/Epistemology/Untitled.md",
+    "book/Nassim Nicholas Taleb",
+    "philosophy/Chinese Philosophy",
+    "philosophy/Western Philosophy",
+    "book/Anna Lembke",
+    "concept/psychology",
     "attachments/682086a316b316fc22917e6e299b9a5d.jpg",
     "attachments/dbb3444e8db9c817142f7e583bdb80a4.jpg",
     "attachments/Pasted image 20260720001103.png",
@@ -260,7 +232,6 @@
     "attachments/85d1e708b3f503428e43a1297b578ba2.jpg",
     "attachments/ca373c89ab2a9e8f6484eba5a0a6ffb0.jpg",
     "attachments/9a017c3f2e060c149694ac7167ac6cdb.jpg",
-    "attachments/c32f02758d14b5fa91088010682a3fc1.jpg",
     "Untitled.canvas"
   ]
 }

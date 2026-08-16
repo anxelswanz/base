@@ -1,2 +1,4 @@
 
-Epistemology is the branch of philosophy concerned with knowledge. It asks how we know what we know.
+Epistemology is the branch of philosophy concerned with knowledge. It asks **how we know what we know**. 
+
+Where does the knowledge come from?

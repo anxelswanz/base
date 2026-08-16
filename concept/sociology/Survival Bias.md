@@ -1,0 +1,2 @@
+
+During World War II, the US military analyzed returning bombers and found that their wings and fuselage were riddled with bullet holes, while the engines and cockpit remained largely untouched. The military initially planned to reinforce the areas with the most damage. However, statistician Abraham Wald pointed out a classic case of **survivorship bias**: planes hit in the engine simply hadn't survived to be counted. Consequently, the military chose to reinforce the areas with the _fewest_ bullet holes, a decision that proved to be lifesaving.

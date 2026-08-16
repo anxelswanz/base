@@ -153,3 +153,11 @@ How others respond to our transgression affects how we feel guilt.
 If others reject, condemn, shun us, we might enter a cycle of destructive shame. It's internalization of failures. Instead of thinking I made a mistake, someone experiencing destructive shame thinks, I am a mistake.
 - Prosocial Shame 
 If others respond by holding us closer and providing clear guidance for redemption/recovery, we might enter a cycle of prosocial shame.
+
+Prosocial shame is predicated on the idea that shame is useful and important for thriving communities. Prosocial shame acts as a signal to alert someone when their behaviour violates the social norm.
+
+
+> We must move forward despite being uncertain of what lies behind. We must have faith that actions today that seem to have no impact on the present moment are in fact accumulating in a positive direction, which will be revealed to us only at some unknown time in the future.
+
+
+

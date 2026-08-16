@@ -1,4 +1,4 @@
-
+	
 Deduction (演绎法) is reasoning from general concept to particular concept.
 
 For example, everybody dies, we can deduct that Socrates dies.
