@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "country/UK/Sheffield.md",
+                "file": "book/Tim Cooper/Script- Updated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sheffield"
+              "title": "Script- Updated"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5024719238281
   },
   "right": {
     "id": "78b0b3b884ac1b3c",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "country/UK/Sheffield.md",
+                "file": "book/Tim Cooper/Script- Updated.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sheffield"
+              "title": "Outline of Script- Updated"
             }
           }
         ],
@@ -186,43 +186,44 @@
   },
   "active": "23b0c4ccbae6f155",
   "lastOpenFiles": [
-    "attachments/fc365c4c449b7aefd587fa7f882c600d.jpg",
-    "culture/England/Sheffield.md",
-    "languages/English Learned in Sheffield.md",
     "book/Tim Cooper/The Story of Sheffield.md",
+    "book/Tim Cooper/Script- Updated.md",
+    "book/Nassim Nicholas Taleb/the Black Swan.md",
+    "book/E.P. Tompson/The Making of English Working Class.md",
+    "book/Tim Cooper/Working Class Movements in Sheffield.md",
+    "book/Plato/Symposium.md",
+    "book/Plato/The Republic.md",
+    "history/Untitled.md",
+    "languages/English Learned in Sheffield.md",
     "country/UK/Sheffield.md",
+    "culture/England/Sheffield.md",
+    "history/1750-1850 Enclosure Movement in Industrial Revolution.md",
+    "history/1760-1840 First Industrial revolution.md",
+    "history/1839 Newport Rising.md",
+    "history/1830-1850 Chartist Movement.md",
+    "history/1811-1813 Luddite Crisis.md",
+    "book/Anna Lembke/Dopamine Nations.md",
+    "thoughts/2026-08-23/Comparison between today and industrialization.md",
+    "thoughts/2026-08-23",
+    "book/E.P. Tompson",
+    "thoughts/The pros and cons of Post Literacy.md",
+    "thoughts/Why should we consume right amount of pain.md",
+    "thoughts/Is Arranged Marriage good or bad?.md",
+    "concept/politics/Communism.md",
+    "concept/politics/Capitalism.md",
+    "concept/politics/Socialism.md",
+    "concept/politics/Parliamentary Monarchy.md",
+    "attachments/fc365c4c449b7aefd587fa7f882c600d.jpg",
     "attachments/a73ad8b61f7a150dec41fdccb64489b0.jpg",
     "country/UK",
     "religion/Presbyterians.md",
-    "religion/Nonconformist.md",
-    "book/Plato/The Republic.md",
     "book/Tim Cooper",
-    "concept/politics/Liberty.md",
-    "concept/politics/Aristocracy.md",
-    "book/Anna Lembke/Dopamine Nations.md",
-    "lectures/The Dating Game.md",
-    "book/Nassim Nicholas Taleb/the Black Swan.md",
-    "concept/logic/Venn Diagram.md",
-    "lectures/Critical Reasoning for Beginners - Mary Ann Tolbert.md",
-    "philosophy/Western Philosophy/Liberal Education.md",
-    "concept/logic/Paradox.md",
-    "philosophy/Western Philosophy/Metaphysics.md",
-    "philosophy/Western Philosophy/Hume's Guillotine (is-ought problem).md",
-    "concept/sociology/Survival Bias.md",
     "culture/England",
-    "philosophy/Ontology/Ontology.md",
     "languages",
-    "philosophy/Ontology/Idealism.md",
-    "philosophy/Ontology/Materialism.md",
-    "philosophy/Epistemology/Epistemology.md",
     "philosophy/Ontology",
-    "philosophy/Epistemology/Empiricism.md",
-    "philosophy/Epistemology/Untitled.md",
     "book/Nassim Nicholas Taleb",
     "philosophy/Chinese Philosophy",
     "philosophy/Western Philosophy",
-    "book/Anna Lembke",
-    "concept/psychology",
     "attachments/682086a316b316fc22917e6e299b9a5d.jpg",
     "attachments/dbb3444e8db9c817142f7e583bdb80a4.jpg",
     "attachments/Pasted image 20260720001103.png",
@@ -231,7 +232,6 @@
     "attachments/a2b6cdc45a1c89d5768a87eefac58872.jpg",
     "attachments/85d1e708b3f503428e43a1297b578ba2.jpg",
     "attachments/ca373c89ab2a9e8f6484eba5a0a6ffb0.jpg",
-    "attachments/9a017c3f2e060c149694ac7167ac6cdb.jpg",
     "Untitled.canvas"
   ]
 }

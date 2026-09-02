@@ -61,18 +61,22 @@ The Return
 
 1. [[Aristocracy]] 
 	However, the political changes are all the results of the division within ruling classes.
-
+	
 2. Timocracy 
 	Plato described it as a "degenerated" form of aristocracy. In this system, the rulers are not motivated by wisdom or the common good, but by ambition, military glory, and the pursuit of status. 
+	
 3. [[Oligarchy]] 
 	The people who value glory or honour turn into those who value private property / money.
+	
 4. Democracy
 	In Plato's view, democracy arises when the poor overcome the rich. While it initially appears attractive, he views it fundamentally unstable. 
 		It treats all people and desires as equal, regardless of their wisdom, merit, meritocracy.
 		Plato compared the democracy with a ship sailing in the sea where passengers fighting over a helm, completely ignoring the necessity of a skilled captain.
+	
 5. Tyranny 
 	Plato believes that the extreme liberty inevitably leads to extreme servitude. When the liberty lacks the guidance and rational guidance, it degenerates anarchy. Demagogues confiscates the property of the rich under the pretext of championing the public interest.  They distributed mere pittance for the poor while pocketing the vast majority for themselves.
 	自由导致失去秩序，而人们对混沌的承受度有限，当生活失去确定性的时候，人们会本能地去寻找秩序，哪怕是残酷的秩序。
+	
 
 
 ## The desires 

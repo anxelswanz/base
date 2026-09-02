@@ -11,7 +11,6 @@ It refers to a political system where a hereditary monarch serves as the officia
 
 - Parliament can make, unmake or amend any law.
 - The monarch cannot override, veto, or refuse to pass laws passed by Parliament.
-
 2. Royal Assent & Political Neutrality
 
 For a bill to become law, it must receive Royal Assent. However, by long-standing constitutional convention, the monarch always grants Royal Assent. 
