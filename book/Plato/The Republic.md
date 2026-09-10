@@ -1,3 +1,69 @@
+# Chapter 1
+
+> 正义就是欠债还钱 Pay what you owe
+> 苏格拉底：如果你的朋友在神志正常时借给你一把武器，但在他**精神失常、发疯**时来要回这把武器，你这时候把武器还给他，是正义的吗？
+> Polemarchus：正义就是给每个人以其应得的 Give every man's due ，即“**对朋友施以善，对敌人施以恶**”（Help friends and harm enemies）
+> 就像音乐家不能用音乐技能让人不懂音乐、骑手不能用骑术让人不会骑马一样，**正义的人绝不可能用“正义”去使别人变得不正义/更坏**。
+
+
+
+>色拉叙马霍斯（Thrasymachus）：正义就是强者的利益 Justice is nothing other than the advantage of the stronger.
+
+- 统治者服务的是强者利益，统治的是老实人，后者为前者谋取幸福，后者却一无所得
+
+- 普通人犯错，不仅要受到惩罚还的名誉扫地。但是那些掠夺人民财富的人，不但没有背上恶名，而且还被视为有福。
+
+- 牧羊人牧羊，服务的牧羊人的利益，而不是羊的利益
+
+>苏格拉底
+
+```
+The good man will not wish to overreach his like but his unlike, whereas the bad man and the ignoramus will overreach both like and unlike.
+```
+
+会医术的人：好
+不会医术的人：坏
+
+会医术的人在行医的时候不会想胜过其他医生（同类）？但是想胜过不会医术的人。
+所以好人不会想胜过同类，而是想胜过异类。
+
+掌握真正知识的人会不会争夺高下，还是对真理的见解趋于一致？趋于一致
+
+```
+Powerful states are sustained by justice. 
+
+Suppose there is a band of robbers, pirates, or villains; what enables them to successfully prey on others? It is precisely what we call 'internal justice.' If these robbers were completely untrustworthy, cheated, betrayed, or even killed one another during the division of spoils, the gang would instantly disintegrate and become utterly incapable of carrying out any plundering tasks.
+```
+
+
+
+1. 每个物体都有它特殊的功能
+2. 心灵也有它特殊的功能就是管理生活
+3. 具有正义的心灵能够将它（管理生活）的功能执行的很好，不正义的心灵能够将它的功能变得糟糕
+4. 生活的好 = 幸福
+5. 所以正义的人是幸福的，不正义的人是痛苦的
+
+
+
+## Chapter 2 
+
+
+> Glaucon 格劳孔
+
+1. 行不义是好事，受不义是坏事……最理想的是行不义而不用付代价（不受惩罚），最糟糕的是遭受不义却无力报复。
+To do injustice is good, and to suffer it is evil...The best is to do injustice without paying the penalty, and the worst is to suffer it without being able to take revenge.
+2. 父母也罢，老师也罢，淳淳告诫子女或者学生，做人需要讲正义，不是为了正义本身，而是为了正义的名声来获得种种好处
+Parents and tutors are always telling their sons and their wards that they are to be just; but why? not for the sake of justice, but for the sake of character and reputation; in the hope of obtaining for him who is reputed just some of those offices, marriages, and the like.
+3. 人们都羡慕有权有势的坏人，而鄙视穷困潦倒的好人，尽管人们心里都明白后者比前者好。
+4. 做正义的人一无所获，做不正义的人可以获得不义的钱财，然后用一部分讨好神明
+
+> 苏格拉底
+
+
+
+
+
+为了培养没美德，要用最高尚最优美的故事教育儿童。
 
 
 # 1 Chapter 4 
@@ -59,7 +125,8 @@ The Return
 
 ## The Degeneration of Regime 
 
-1. [[Aristocracy]] 
+1. [[Aristocracy]] / Meritocracy 
+	A country let by philosopher king who possess not only the wisdom but also the virtue.
 	However, the political changes are all the results of the division within ruling classes.
 	
 2. Timocracy 

@@ -1,4 +1,4 @@
-
+m
 1. bang on = exactly correct
 2. up to its job = being competent in job
 3. I am a bit gutted = 我有点失望/ 郁闷
@@ -83,6 +83,5 @@ She's in the past, and the past is not my concern.
 18. bargaining chip 谈判筹码
 
 
-
-
-
+The only way to guarantee peace is by making the prospect of war seem hopeless.
+Politics is deliberately making some people's lives better while deliberately making some people's lives worse.

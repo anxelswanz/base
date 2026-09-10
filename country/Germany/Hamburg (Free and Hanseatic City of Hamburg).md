@@ -68,7 +68,7 @@ Gothic Revival Redbrick Facades
 
 ### Stadtpark 
 
-
+![[55860be1057306baece248517e21b0fa 1.jpg]]
 
 # Transport 
 
@@ -91,9 +91,7 @@ Gothic Revival Redbrick Facades
 - **定位：** 连接**德国各大核心城市**（如柏林、法兰克福、慕尼黑）以及邻国（如奥地利、瑞士、法国）。车内设施最舒适，票价也最贵。
 
 spargel gerichte 芦笋料理
-
 saufen v. 狂饮 
-
 Udo Lindenberg: a singer 
 
 

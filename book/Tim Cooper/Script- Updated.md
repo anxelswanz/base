@@ -45,21 +45,39 @@ What happened made we turned around to themselves.
 
 ## SCENE 5  1791 
 
-In 1789, the French Revolution broke out. Sheffield reacted with wild celebration, across all social classes. Around the same time, Thomas Paine’s *Rights of Man* started spreading among the Little Mesters. 
 
-Then in 1791, things went wrong. Parliament passed an enclosure act, privatizing nearly six thousand acres of local common land and didn't pay a single penny in compensation. This was the land used for Poor people grazed their livestock gathered firewood, and foraged there. It had been their right for centuries.
+"The outstanding fact of the period between 1790 and 1830 is the formation of 'the working class'... the consciousness of an identity of interests as between all these diverse groups of working people and as against the interests of other classes."
 
-The city went wild. Gathering after gathering, riot after riot broke out across the area. One group marched straight to Broom Hall and burnt it down. That was the home of James Wilkinson, a local vicar and magistrate. In 1795, on Norfolk Street, The people of Sheffield gathered to protest, driven by extreme dissatisfaction with their hardships and high food prices. the army fired into the crowd, killing two people. Montgomery 当时编辑的《Sheffield Iris》因为报道 Norfolk Street 那场枪击而入狱。The government then set up a permanent garrison here—specifically to suppress the people of this city.
+That is a quote from historian E.P. Thompson, and it perfectly captures the moment English society tore into two distinct sides: "We," the ordinary working people, and "They," the aristocrats, the squires, and Parliament. And Sheffield was on the absolute frontlines.
 
-- 1795年12月《两法案》——**禁止五十人以上集会**
-- **1799–1800《结社法》：工人联合本身被定为犯罪**
-在这个期间，we 是Sheffield 人民，they 是贵族和乡绅,Parliament。
+It started in 1789 when the French Revolution broke out, and Sheffield reacted with wild celebration. Soon, Thomas Paine’s _Rights of Man_ spread like wildfire among local craftsmen, the "Little Mesters." By late 1791, they took a step further, establishing the **Sheffield Society for Constitutional Information** to demand universal male suffrage and an end to a corrupt Parliament. Then "They", the ruling class, made their move.
+
+In the same year, Parliament passed an Enclosure Act, privatising nearly six thousand acres of common land — where the poor had grazed animals and gathered firewood for centuries.
+
+The city went wild. One group marched straight to Broom Hall and burnt it to the ground. That was the home of James Wilkinson who was a local vicar and magistrate. In 1795, driven by extreme hardship and soaring food prices, the people gathered to protest on Norfolk Street. The army fired directly into the crowd, killing two people in response. When James Montgomery, the editor of the _Sheffield Iris_, reported on the Norfolk Street shooting, they threw him in prison. 
+
+The government then went a step further, setting up a permanent military garrison in Sheffield—specifically to suppress the people of this city. To completely silence the dissent, Parliament weaponized the law: first the **"Two Acts" of 1795** banning large gatherings, followed by the **Combination Acts of 1799 and 1800**, which made worker solidarity a literal crime.
+
 
 ## SCENE 6 · Paradise Square 1832
 
+
+If you go to Paradise Square today, it’s just a quiet cobblestone slope surrounded by old buildings. But once, twenty thousand people stood right in this place.
+
+It started with the Reform Act of 1832. Sheffield finally got its own MPs, ending a long history of tens of thousands of people having zero representation. It sounded like a victory. But the act also set strict rules for voting: you had to own property of a certain value, or pay at least ten pounds a year in rent. The vast majority of workers qualified for neither.
+
+To make matters worse, the Poor Law Amendment Act of 1834 introduced the notorious workhouse system where families were torn apart and **forced into grueling labor under prison-like conditions**.
+
+That crushing disappointment quickly fueled the Chartist movement. In October 1837, the Sheffield Working Men's Association was formed to fight for true political rights. However, the authorities met this growing resistance with a heavy hand. Armed police patrols roamed the town centre, ambushing suspected Chartists, while police and military forces moved in to suppress rallies right here in Paradise Square, leading to over 79 arrests.
+
+The Chartist movement didn't win the vote in the end. But before the movement, the question was: "Do workers even deserve the vote?" After the movement, the question changed to: "When, and how many of them can vote?"
+
+---
+
+
 If you go to Paradise Square today, It’s just a quiet cobblestone slope, surrounded by old buildings. But once, there were Twenty thousand people stood in this place.
 
-It started in 1832. **The Reform Act** passed that year, and Sheffield finally got its own MPs, ending a long history of tens of thousands of people having zero representation. It sounded like a victory. But the act also set strict rules for voting: you had to own property of a certain value, or pay at least ten pounds a year in rent. The vast majority of workers qualified for neither. 
+It started in 1832. Sheffield finally got its own MPs, ending a long history of tens of thousands of people having zero representation. It sounded like a victory. **The Reform Act** passed that year, and But the act also set strict rules for voting: you had to own property of a certain value, or pay at least ten pounds a year in rent. The vast majority of workers qualified for neither. 
 **Poor Law Amendment Act 1834** 的推出把贫穷变成了罪，比如说notorious workhouse system. People are forced to work in factory.
 
 That disappointment quickly turned into the Chartist movement. In October 1837, the Sheffield Working Men's Association was formed to fight for true political rights.
@@ -70,6 +88,25 @@ The chartist movements 宪章运动没有赢得选票, 但是宪章运动之前�
 
 ## SCENE 7 Industrial Revolution and We as working class
 
+By 1851, with 52 percent of men and 17 percent of women working in metal trades, Sheffield had a greater proportion of its industrial workforce than any other town in the country. 
+
+In Sheffield both masters and artisans came from the same social background and there was an absence of the rigid social distinction apparent in other industrial towns, particularly the factory-based centres such as Manchester and Leeds. 
+
+This meant there wasn't a huge gap between the rich and the poor because these 'Little Mesters' would often hire outworkers for one job, and then turn around and work for someone else the next.
+
+But the Industrial Revolution changed everything. A massive surge in global orders demanded speed and scale, so a single craftsman couldn't possibly forge a knife from start to finish anymore.
+
+The workers morphed into cogs in a machine—trapped as outworkers, earning depressed wages, locked in a dependency by those who controlled the global market. In times of price depression, manufacturers kept rents artificially high, forcing workers into endless debt. This was the vile practice of "pawning the workers." 
+
+And to seal their fate, there was the infamous **Master and Servant Act of 1823**. Under this law, if a worker left without consent, slacked off, or dared to strike, **it was treated not as a breach of contract, but as a criminal offense.** 
+
+Tim Cooper comments in **_The Story of Sheffield_**, "This was a profound disrespect to the independent cutlers and stood in stark contrast to Sheffield's proud heyday.
+
+We, now the working class, stood face to face with the new masters of capital.
+
+Locked inside the modern industrial cage, we—the working class—now stood face to face with the new masters of capital.
+
+---
 
 By 1851, with 52 percent of men and 17 percent of women working in metal trades, Sheffield had a greater proportion of its industrial workforce than any other town in the country. in Sheffield both masters and artisans came from the same social background and there was an absence of the rigid social distinction apparent in other industriaal towns, particularly the factory-based centres such as Manchester and Leeds. This meant there wasn't a huge gap between the rich and the poor because these 'Little Mesters' would often hire outworkers for one job, and then turn around and work for someone else the next.
 
@@ -77,7 +114,7 @@ But the Industrial Revolution changed everything. A massive surge in global orde
     
 It was no longer feasible for a single craftsman to forge a knife from start to finish. **The production process was ruthlessly broken down:** some specialized in forging, others in grinding, and still others in assembling.
     
-The independent cutler was shattered. Instead of masters of their craft, workers morphed into cogs in a machine—trapped as outworkers, earning depressed wages, locked in a web of dependency by those who controlled the global market. In times of price depression, manufacturers kept rents artificially high, forcing workers into endless debt. This was the vile practice of "pawning the workers." And to seal their fate, there was the infamous **Master and Servant Act of 1823**. Under this law, if a worker left without consent, slacked off, or dared to strike, **it was treated not as a breach of contract, but as a criminal offense.** The independent cutler was no more. They were locked inside the modern industrial cage.
+
 
 Written in the book the story of Sheffield. This was a profound disrespect to the independent cutlers and stood in stark contrast to Sheffield's proud heyday. 
 
@@ -86,19 +123,21 @@ We, now the working class, stood face to face with the new masters of capital.
 
 ## SCENE 8 
 
-Founded in 1858, the trade union council united various independent trade unions into a cohesive whole to build collective strength.
+Founded in 1858, the Sheffield Trade Union Council united various independent trade unions into a cohesive whole to build collective strength.
 
-During the 1850s and 1860s, to enforce compliance with union rules, trade unions routinely resorted to **"Rattening"**—sabotage, intimidation, and violent attacks. This dark era became known as the **Sheffield Outrages**.
+During the 1850s and 1860s, to enforce compliance with union rules, trade unions routinely resorted to a brutal tactic **"Rattening"**—sabotage, intimidation, and violent attacks. This dark era became known as the **Sheffield Outrages**.
 
-The violence peaked on the rainy night of October 8, 1866, when union agents sneaked into Thomas Fearnehough’s Hereford Street home and dropped a canister of gunpowder down the chimney, detonating it. Though the blast destroyed the building, Fearnehough miraculously crawled out of the rubble alive.
+The violence peaked on the rainy night of October 8, 1866, when union agents sneaked into a house on Hereford Street, dropped a canister of gunpowder down the chimney, and detonated it. Although the blast destroyed the building, the occupant miraculously crawled out of the rubble alive.
 
-The Hereford Street bombing was more than just a criminal offense; it acted as a mirror, warning the ruling class and society at large that completely blocking the legitimate demands and negotiation channels of the grassroots masses will easily breed and condone underground, terrorist-style resistance on the social margins.
+The Hereford Street bombing was more than just a criminal offense; it acted as a mirror, warning the ruling class that completely blocking the legitimate demands and negotiation channels of the  masses will easily breed underground, terrorist-style resistance on the social margins.
 
 Yet, this tragedy ultimately served as a positive catalyst: the **Trade Union Act of 1871** was passed, officially granting trade unions legal status and protecting their funds.
 
 But financial protection was not enough, because a silent, insidious weapon still hung over every worker: **Criminal Conspiracy**. Under this legal logic, if you alone decided not to go to work, it was merely your own choice. But if you and your fellow workers agreed together to stay away, it became a crime.The true cruelty of this charge is It criminalized solidarity. 
 
-The turning point finally arrived in **1875**. The **Conspiracy and Protection of Property Act 1875** abolished this chilling conspiracy charge, finally decriminalizing peaceful collective action. In the same year, the **Employers and Workmen Act** completely dismantled the criminal system of the old _Master and Servant Act_. Even the language changed: gone were the feudal, submissive terms of **"master and servant."** They were replaced by modern, equal legal identities—**"employer and workman."**
+Financial protection was not enough, as a constant, looming legal threat known as **Criminal Conspiracy** still hung over every worker. Under this legal logic, individual absence from work was a choice, but **collective action, for example, a strike, became a crime**. The true cruelty of this charge is It still criminalized solidarity. 
+
+The turning point finally arrived in **1875**. The **Conspiracy and Protection of Property Act 1875** abolished this conspiracy charge. In the same year, the **Employers and Workmen Act** completely dismantled the criminal system of the old _Master and Servant Act_.
 
 19世纪50至60年代，为了对付违反工会规则，工会常年采用名为 **“Rattening”**（破坏工具、恐吓或暴力袭击）的手段，this period is called Sheffield Outrage. 1866年10月8日深夜，工会指派的人员潜入他在赫里福德街的住所，将一罐黑火药从烟囱扔下并引爆。房屋被炸毁，但费尔尼豪奇迹般地从废墟中生还。赫里福德街的爆炸案不仅是一桩刑事犯罪，更是一面镜子，这警示统治阶级和全社会：**如果彻底堵塞底层群众合理的诉求与协商渠道，社会边缘就极易滋生并纵容地下恐怖主义式的对抗。积极作用是：**1871年《工会法》** —— 工会获得法律人格、会款受法律保护。
 
@@ -107,10 +146,15 @@ criminal conspiracy，你一个人不去上班没事，你们商量好一起不�
 
 ## Conclusion 
 
-From the enclosure riots and the burning of Broom Hall in **1791**, through the Chartist struggles of the **1830s** and the dark violence of the **Sheffield Outrages (1860s)**, to the ultimate legal breakthrough of the **Conspiracy and Protection of Property Act in 1875**, it took roughly **80 to 90 years** of relentless friction to forge modern labor rights.
+From the enclosure riots and the burning of Broom Hall in **1791**, through the Chartist struggles of the **1830s** and the dark violence of the **Sheffield Outrages (1860s)**, to the ultimate legal breakthrough of the **Conspiracy and Protection of Property Act in 1875**, it took roughly **80 to 90 years** of relentless friction to forge modern labor rights. 
 
-From an isolated "I"—the proud Little Mester stamping his name into a single blade—to a collective "We" standing shoulder-to-shoulder against the machine, Sheffield's history reminds us that every right we enjoy today was fought for, inch by inch, by those who refused to stay silent.
+> As E.P. Thompson observed in the book making of english working class, the working class made itself just as much as it was made. Enclosures, industrial revolution, and the Master and Servant Act shaped them, but history tells only half the story. Long before the legal breakthroughs, Sheffield workers were actively teaching themselves how to self-organize: building mutual aid societies, campaigning to abolish slavery and liberate chimney boys, founding independent newspapers to spread their ideas, drafting democratic constitutions, and **managing their own strike and cooperative treasuries**.
+> 
+> They forged these tools of self-governance with their own hands—and then sustained the struggle for eighty years, even though almost none of them lived to see it finally pay off.
 
+From an isolated 'I'—the proud Little Mester stamping his name into a single blade—to a collective 'We' standing shoulder-to-shoulder against the machine, Sheffield's history reminds us **how the  working class was truly born and learned to survive through the hardship.**
+
+分界线 下面不管
 
 # Chapter 2 The Cost 
  
