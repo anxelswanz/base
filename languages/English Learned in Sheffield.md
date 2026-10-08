@@ -1,4 +1,4 @@
-m
+
 1. bang on = exactly correct
 2. up to its job = being competent in job
 3. I am a bit gutted = 我有点失望/ 郁闷
@@ -36,6 +36,19 @@ m
 30. go agains the grain 反其道行之
 31. you'll never guess what 你永远猜不到
 32. venture to say 冒昧地说：表示说话人对自己的话并不十分确定，但仍然愿意说出来。
+33. nitty-gritty: the basic or most important details of an issue or a situation基本事实；重要细节
+34. Carry the can 背锅
+35. kick the can down the road: ==to delay dealing with a hard problem or making a tough choice==.
+36. hit a nerve 触动某人的敏感点或引起某人的强烈反应
+37. put-downs 贬低
+38. time-out 暂停 
+39. pay lip service to 口头支持
+40. take the edge off 缓解，减轻疼痛
+41. roil = disturb 扰乱 
+42. State Rooms 国事套房
+
+
+
 
 
 
@@ -81,7 +94,39 @@ She's in the past, and the past is not my concern.
 	have no business doing sth. 指没有权利、资格或合法性去做某件事情或进入某个地方。
 17. i was on hand to save your life. on hand 在旁边
 18. bargaining chip 谈判筹码
+19. **“the barricades”** 常常用来象征**阶级斗争、社会抗争、政治立场的对立双方**（例如：统治阶级 vs 劳工阶层，或者体制内 vs 体制外、政府 vs 罢工者）。
+20. won the raffle 中了大奖
+21. snap election 临时选举
+
 
 
 The only way to guarantee peace is by making the prospect of war seem hopeless.
 Politics is deliberately making some people's lives better while deliberately making some people's lives worse.
+
+for those who make rules, there are no rules
+
+
+
+
+## Work English 
+
+
+1. task out 派发/分派任务
+	- I'd like to task this out to the team today 我想把这个任务分发给团队
+2. on course with 按计划推进 
+	- We are on the course to launch the product next month 我们计划下个月推进新品发布
+3. As you put it, XX 正如你所说的
+	- As you put it, we need to focus on efficiency first 
+4. In the meantime 于此同时
+5. I'd second this 我赞同这一点 / 我附议
+6. That's everything from me, back to you = That's all from my side = That covers everything on my end. I have nothing further to add. 
+7. spot on“ 
+
+
+IT / Hardware 
+
+1. power cycle 断电重启
+	- Feel free to appropriately power cycle the stations and see if it clears any hang ups 
+2. Clear any hang ups: 清楚任何卡顿
+3. presumably in the morning no 想必也是明天早上了
+4. spot on  太对了

@@ -48,14 +48,18 @@ Suppose there is a band of robbers, pirates, or villains; what enables them to s
 ## Chapter 2 
 
 
-> Glaucon 格劳孔
+> Glaucon 格劳孔 Justice is the compromise between the best and the worst
 
 1. 行不义是好事，受不义是坏事……最理想的是行不义而不用付代价（不受惩罚），最糟糕的是遭受不义却无力报复。
 To do injustice is good, and to suffer it is evil...The best is to do injustice without paying the penalty, and the worst is to suffer it without being able to take revenge.
 2. 父母也罢，老师也罢，淳淳告诫子女或者学生，做人需要讲正义，不是为了正义本身，而是为了正义的名声来获得种种好处
 Parents and tutors are always telling their sons and their wards that they are to be just; but why? not for the sake of justice, but for the sake of character and reputation; in the hope of obtaining for him who is reputed just some of those offices, marriages, and the like.
-3. 人们都羡慕有权有势的坏人，而鄙视穷困潦倒的好人，尽管人们心里都明白后者比前者好。
-4. 做正义的人一无所获，做不正义的人可以获得不义的钱财，然后用一部分讨好神明
+3. 极端不正义的人和极端正义的人
+	1. The completely unjust person: He commits all manner of evil, yet through a clever disguise and formidable skill, he is regarded by the world as a 'moral saint.' He reaps both wealth and fame, and is universally respected.
+
+	2. The completely just person: He is utterly pure and righteous at heart, yet due to various misunderstandings, he is regarded by the world as a heinous criminal. All his life he suffers contempt, torture, and is ultimately crucified.
+4. 人们都羡慕有权有势的坏人，而鄙视穷困潦倒的好人，尽管人们心里都明白后者比前者好。
+5. 做正义的人一无所获，做不正义的人可以获得不义的钱财，然后用一部分讨好神明
 
 > 苏格拉底
 

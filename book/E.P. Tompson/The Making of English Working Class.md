@@ -53,7 +53,7 @@ Those cotton spinners are not free, they can't leave their master easily because
 
 > Master and Servant Act (1720 - 1875)
 
-If workers left with employers' consent, slacked off, participated in strikes, it constitutes a criminal offense. If employers refused to pay wages and unlawfully dismissed workers, workers cannot call the police and they can only seek compensation through civil litigation ---- a process that impoverished workers could hardly afford at that time.
+If workers left without employers' consent, slacked off, participated in strikes, it constitutes a criminal offense. If employers refused to pay wages and unlawfully dismissed workers, workers cannot call the police and they can only seek compensation through civil litigation ---- a process that impoverished workers could hardly afford at that time.
 
 
 The workmen in general are inoffensive, unassuming men, they are are docile and tractable. (p219)

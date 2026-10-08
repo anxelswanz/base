@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Typewriter",
-  "textFontFamily": "Apple Color Emoji"
+  "cssTheme": "Minimal",
+  "textFontFamily": "American Typewriter,Academy Engraved LET",
+  "interfaceFontFamily": "American Typewriter,Apple Symbols",
+  "accentColor": ""
 }

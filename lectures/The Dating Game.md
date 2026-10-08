@@ -21,10 +21,7 @@ Understand Rules, Incentives, Players to predict where thing will go.
 
 ## lecture 2 
 
-The game is established by stakeholders and they play the games according their interests.
-
-In game theory, all the players are motivated by achieving the best possible results by doing the least amount of work possible.
-
+The game is established by stakeholders and they play the games according their interests. In game theory, **all the players are motivated by achieving the best possible results by doing the least amount of work possible**.
 
 list the players in the game
 rank the players in the game
