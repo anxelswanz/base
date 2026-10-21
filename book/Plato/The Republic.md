@@ -36,7 +36,6 @@ Suppose there is a band of robbers, pirates, or villains; what enables them to s
 ```
 
 
-
 1. 每个物体都有它特殊的功能
 2. 心灵也有它特殊的功能就是管理生活
 3. 具有正义的心灵能够将它（管理生活）的功能执行的很好，不正义的心灵能够将它的功能变得糟糕
@@ -63,14 +62,15 @@ Parents and tutors are always telling their sons and their wards that they are t
 
 > 苏格拉底
 
-
-
-
-
 为了培养没美德，要用最高尚最优美的故事教育儿童。
 
+## Chapter 3
 
-# 1 Chapter 4 
+【403B】真正的爱，是追求美。这种爱，既节制，有和谐。
+
+
+
+# Chapter 4 
 
 # 1. The beauty of the whole
 
@@ -98,6 +98,8 @@ When facing pleasure, pain, desire and fear, man's convictions never fade.
 2.4 Justice （or Righteousness）
 
 > [!that **each one man must perform one social service in the state for which his nature was best adapted**... And further, that **this doing one's own business and not being a busybody is justice**, this also we have heard from many others and have often said ourselves.]
+
+^9d464d
 
 我们必须让每一个人在城邦中担任一项最适合他天性的社会职务……而且，**这种各司其职、互不干涉（管闲事）的状态就是正义**。这一点我们不仅听别人说过，自己也经常挂在嘴边。
 

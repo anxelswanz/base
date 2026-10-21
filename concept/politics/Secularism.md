@@ -1,0 +1,2 @@
+
+It is commonly thought as the separation of religions from  civil affairs and the state, and may be broadened to a similar position seeking to remove or minimize the role of religion in public sphere.  

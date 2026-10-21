@@ -46,6 +46,18 @@
 40. take the edge off 缓解，减轻疼痛
 41. roil = disturb 扰乱 
 42. State Rooms 国事套房
+43. Was that a little jab? （你）刚才那是在暗讽/讽刺我吗？
+44. innocuous 无害的
+45. contemporary  n.同时代的人
+46. I wouldn't put it past you 我觉得你完全干得出这种事
+47. That seems in tension with what you said before. In tension with 与..存在矛盾
+48. unaffected: natural
+49. captious: 吹毛求疵地
+50. leap on mistakes  抓着错误不放
+51. spurn: to reject or refuse sb/sth, especially in a proud way
+52. perennial 反复出现的 
+53. perennial problems 反复出现的问题
+54. at work 发挥作用: the demon at work again. 魔鬼在发挥作用了。
 
 
 
@@ -57,7 +69,7 @@
 
 ## Peaky Blinders
 
-1. you don't parley when you on the back foot.
+1. you don't parley when you on the back foot. 当你处于劣势（处于下风/被动挨打）的时候，是不能跟对方进行谈判（讲条件/妥协）的。
 2. you would have hit me if it weren't for the fact that you know i am right 要不是因为你知道我是对的，你刚才早就打我了。
 3. i got a tip-off 有人给我透露了内部消息
 4. fix a race 操纵比赛
@@ -120,7 +132,8 @@ for those who make rules, there are no rules
 4. In the meantime 于此同时
 5. I'd second this 我赞同这一点 / 我附议
 6. That's everything from me, back to you = That's all from my side = That covers everything on my end. I have nothing further to add. 
-7. spot on“ 
+7. spot on 太对了
+8. flesh out 使具体化
 
 
 IT / Hardware 
@@ -129,4 +142,5 @@ IT / Hardware
 	- Feel free to appropriately power cycle the stations and see if it clears any hang ups 
 2. Clear any hang ups: 清楚任何卡顿
 3. presumably in the morning no 想必也是明天早上了
-4. spot on  太对了
+
+

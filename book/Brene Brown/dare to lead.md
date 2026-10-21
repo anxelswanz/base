@@ -85,5 +85,74 @@ Empathy is you feel with people, sympathy is you feel for people. Empathy fuels 
 Sympathy is "I get it, I feel with you"
 Empathy is "I feel sorry for you"
 
+Empathy lines:
+- Me too.
+- I see you, you're not alone.
+- I've been in a similar place and it's really hard
+- I understand what that's like. 
 
+
+## Shame 
+
+
+Speak Shame 
+
+Shame hates having words wrapped around it. If we speak shame, it starts to wither. People should be cautious when hearing this:
+- You're so sensitive 
+- You're so fragile 
+- It's all in your head 
+- You're so defensive 
+- weak/ lame/ loser 
+
+ # ~={gray}Living into Values =~
+
+## Value Definition 
+
+![[2416fa82b0deb3e7daf7d45a67869f41.jpg|327]]
+
+~={yellow}A value is a way of being or believing that we hold most important. =~We are clear about what we believe and hold important, and we take care that our intentions words, thoughts, and behaviours align with those beliefs. (P186)
+
+> What are my professional values?
+
+Cooperation / Excellence
+
+>What are my personal values?
+
+Gratitude / Faith
+
+##  Name our values and make it two
+
+If you have more than three priorities, you don't have any.  
+	-- Jim Collins
+
+> In most situations, there are eight seconds of intense discomfort. (P193)
+
+
+# Chapter Four - Courage-building 
+
+~={yellow}When we have the courage to **walk into our story and own it**, we get to write the endng.=~
+
+ For company: *We should build a courage-building culture, that is, people are expected to fail and we've got a plan.* 
+ For parenting: *Nowadays, many parents are preparing paths for the kids instead of preparing kids for the paths.* 
+
+## The Reckoning  觉察
+
+Knowing that we are emotionally hooked and being curious about it instead of offloading on to others. The strategy of the reckoning is through breathing. Breathe in for four, hold for four, breathing out for four and hold for four.
+
+- Overfunctionists: **行动优先于感受**（_I won't feel, I will do_）：遇到压力时，他们会迅速关闭情绪感受，进入“解决问题”模式。
+- Underfunctionists: **退缩与退化**（_I won't function, I'll fall apart_）：面对危机或高压时，变得无所适从、情绪崩溃或陷入瘫痪状态。
+
+Ask yourself:
+1. Do I have enough information to freak out about this situation?
+2. Will freaking out help?
+
+## The Rumbling 
+
+Because our bains prefer clarity to ambiguity, people tend to make up stories that could be false itself. It is suggested that in the Book, we need to write Shitty First Draft (SFD) for us to examine which part of the story is **fact** and which part is **assumption**. 
+
+```
+The story I'm making up in my head is....
+```
+
+And then rewrite the story.
 
