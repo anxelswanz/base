@@ -109,14 +109,14 @@ It echos [[Laozi#Act without clinging to the result **为而不恃**]] and echoe
 
 ### Wholeness -> [[Mediations#The compliance of one's own nature with nature of the universe]]
 
-> Welcome all that happens to you, even if it seems rather cruel, because its purpose leas to the health of the universe.
+> Welcome all that happens to you, even if it seems rather cruel, because its purpose leans to the health of the universe.
 > .. 
 > One is that this has happened to you, was prescribe to you.
 > The second is that what comes to each individual is a determining part of the welfare, the perfection, and indeed the very coherence of that which governs the Whole.
 > ..
 > Whenever you fret at your lot: this is, in a sense, a destruction
 
-Humans, as tiny part of the universe, may be too limited to realize that his own adversities, miseries server a higher purpose that contributes to the wholeness of the universe, as the universe never acts against its own health.
+Humans, as tiny part of the universe, may be too limited to realize that his own adversities, miseries serves a higher purpose that contributes to the wholeness of the universe, as the universe never acts against its own health.
 
 
 ### Souls are dyed by thoughts 
@@ -126,7 +126,7 @@ Humans, as tiny part of the universe, may be too limited to realize that his own
 The palace is believed to be a place that deteriorates a person's soul and moral. However, Marcus believes that whether a person can lead a good life or not depends on his own virtue rather than external environment. Thus, Men can lead a good life in palace that's full of fames and temptations.
 
 
-### Kind  -> [[Mediations#Conduct kindness and ask nothing for return]]
+### Kind & Community  -> [[Mediations#Conduct kindness and ask nothing for return]]
 
 > It has long been shown that we are born for community - or was it not clear that inferior creatures are made in the interest of the superior, and the superior in the interest of each other? But animate is superior to inanimate, and rational to the merely animate.
 
@@ -163,6 +163,18 @@ Marcus thinks the only evil is his own evil. What others have done to you is not
 
 ## Book 6 
 
+
+### Social 
+
+> Let one thing be your joy and comfort: to move on from social act to social act, with your mind on god. (Book 6.7)
+
+Marcus said that 
+- Rational being exist in the interest of others.
+- Rational being or human is part of the wholeness.
+So every act should be part of the whole of act. The social act here refers to an action performed as a member of community for the common good.
+
+
+
 ### Dilemma argument 
 
 > Eiter a stew, an intricate web, and dispersal into atoms; or unity, order, and providence... (Book 6.10)
@@ -171,4 +183,192 @@ Marcus thinks the only evil is his own evil. What others have done to you is not
 - If the universe is coherent whole govern by Logos, order and divine providence, then everything that occurs possesses inherent necessity and rationality. 
 If all is chaos, then no need to be anxious, for everything will ultimately vanish into thin air. If all is order, do not be afraid, for everything is governed by supreme law. Simply follow reason and live bravely.
 
+
+### Pleasure
+
+> As for pleasure, pirates, catamites, parracides, and tyrants have enjoyed it to the full.
+
+
+### LOGOS -> [[Mediations#The compliance of one's own nature with nature of the universe]]
+
+> All things come from that other world, taking their start from that universal governing reason, or in consequence of it.
+
+
+Nature -> [[Mediations#The compliance of one's own nature with nature of the universe]]
+
+>There's nothing contrary to the nature in pain, as long as he is doing the work of a a man: and if not contrary to nature for him, not an evil either
+
+Syllogusm
+1. Anything that is not contrary to nature is not evil
+2. The pain from man's work is not contrary to nature
+3. The pain is not evil
+
+### God
+
+6.44
+
+```
+IF God took thought for me
+	-> Things that happen to me will be good
+ELSE IF God does not take the individual thought for me
+	-> God took thought for common good
+		-> What happens to me is a consequential of that 
+			-> I should welcome it
+ELSE IF God takes no thought for any of our concerns
+	-> I take thought for what is best. My best is to do things according to my rational and social nature.
+```
+
+
+## Book 7 
+
+### Worth -> [[Mediations#Self Reflection]]
+
+> But bear in mind that a person's worth is measured by the worth of what he values.
+
+If a person values status, wealth, fame, then he is no more than the puppies fighting for the bone.
+If a person values ration, goodness and kindness, then his value will be much higher as these virtues reside in one's soul and cannot be stripped away while wealth and all other things don't truly belong to someone.
+
+- If virtue is a state of the soul, yet my soul can be deceived or provoked into losing its virtue, it suggests that virtue can also be stripped away from my soul. How, then, can it be proven that virtue truly belongs to me?
+
+Epictetus said 
+
+> No robber can steal your free will.
+
+It means that people can forgo their virtues instead of being taken away.
+
+
+### Anger 
+
+> (1) A deep scowl on the face is contrary to nature, and when it becomes habitual, expressiveness begins to die or is even finally extinguished and beyond rekindling. 
+> ..
+> (2) In the field of moral behaviour, if even the consciousness of doing wrong is lost, what reason is there left for living? (7.24)
+
+For (1), research shows that venting anger makes people more prone to future outbursts rather than calmer. because the more frequently you interpret the world through anger, the more easily you perceive others as enemies, making you all the more 
+
+For (2), when a man is angry, he tends to hold the belief that other people are wrong, then people won't see his own mistakes.
+
+
+### Unshaken by external forces
+
+> Take your joy in simplicity, in integrity, in indifference to all that lies between virtue and vice.
+
+
+### Pain
+
+> On pain. Unbearable pain carries us off: chronic pain can be borne. The mind preserves its own serenity by withdrawal, and the directing reason is not impaired by pain. It is for the parts injured by the pain to protest if they can.
+
+### King 
+
+> "A King's" lot: to do good and be damned 
+
+Quote from Antisthenes (disciple of Socrates)
+
+
+### Wholeness -> [[Mediations#Wholeness -> Mediations The compliance of one's own nature with nature of the universe]]
+
+>If I and my two sons are now no more The gods' concern, this too will have its cause.
+
+Trust in the order of the universe: believing that things unfold within a larger scheme, even when we cannot see why.
+
+
+### Dilemma -> [[Mediations#Dilemma argument]]
+
+> Quote from Euripides 'What is born of earth goes back to earth: but the growth from heavenly seed returns whence it came, to heaven.'
+> Or else this: a dissolution of nexus of atoms, and senseless molecules likewise dispersed.
+
+### Compliance with nature -> [[Mediations#The compliance of one's own nature with nature of the universe]]
+
+> "With special food or drink, or sorcery, seeking a channel from the stream of death."
+> "the wind that blows from god we must endure, and labour uncomplaining."
+
+第一句出自**欧里庇得斯**的悲剧《乞援人》。剧中一位年老的父亲在悲痛中感叹：有些人千方百计想延长生命，靠饮食调养、靠巫术咒语，企图让生命的河流改道，逃过死亡。他说，这样的人与其留在世上碍事，不如离去。
+
+Some people are afraid of death and resist the nature of death by even resorting to sorcery. It is in vain and and of no dignity. While the right way of complying with nature is to accept the nature and work with endurance.
+- External things: accept it.
+- What are in your control: spare no efforts.
+
+
+
+### Social #2 [[Mediations#Social]]
+
+> So the main principle in man's constitution is the social.
+> The second is resistance to the promptings of the flesh.
+> ..
+> The third element in a rational constitution is a judgement unhurried and undeceived.
+
+Use the four cardinal virtues in Plato's the Republic.
+The social is the equivalent of justice.
+The resistance to promptings of the flesh is equivalent of temperance and bravery.
+The unhurried and undeceived judgement is equivalent of wisdom.
+
+所有人都分有同一个 Logos，所以人与人本来就是一体的，像同一个身体的不同部分（马可在 2.1 用手脚、眼睑、上下排牙齿作比喻）。一个理性如果只为自己打算，就等于割断了自己与整体的联系，这本身就是对理性本性的背叛。
+
+### Grateful
+
+> Imagine you were now dead, or had not lived before this moment. Now view the rest of your life as a bonus, and live it as nature directs.
+
+
+### Life
+
+> The art of living is more like wrestling than dancing, in that it stands ready for what comes and is not thrown by the unforeseen.
+
+Dancing is often choreographed and planned, people always know what to do for the next move.
+Wrestling, on the other hand, is preparing for the unexpected. People will never know what will happen next and they can only be flexible and ready for the change.
+
+
+### Endorsement 
+
+> All the time you should consider who are these people whose endorsement you wish, and what are the minds that direct them. When you look into the sources of their judgement and impulse, you will not blame their unwitting error, nor will you feel the need of their endorsement.
+
+我们常常渴望别人的称赞，害怕别人的批评。马可提醒自己：**先看看这些人用什么标准在评判你。**
+- 如果一个人的价值观本身就是错的（把财富、地位、外表当作衡量人的标准），那么他的称赞或批评，也只是从错误的原则出发的。
+- 一个用错误尺子量东西的人，他量出来的结果有什么意义呢？
+
+### Pain --> [[Mediations#Pain]]
+
+> "Pain is neither unendurable nor unending, as long as you remember its limits and do not exaggerate it in your imagination." quote from Epicurus.
+
+### Vice --> [[Mediations#Unshaken by external forces]]
+
+>It is ridiculous not to escape from one's own  vices, which is possible, while trying to escape the vices of others, which is impossible
+
+
+## Book 8
+
+> Regret is a censure of yourself for missing something beneficial. The good must be something beneficial, and of concern to the wholly good person. No wholly good person would regret missing a pleasure. Therefore pleasure is neither beneficial nor good. (8.10)
+
+Good: G(x) (G=Good)
+Beneficial: U(x) (U=Useful)
+If a good person misses x, they will regret: R(X) (R=Regret) 
+
+Good is beneficial = G(x) -> U(x)
+If a person misses something beneficial, then he will regret: U(x) -> R(x)
+A good person won't regret for missing pleasure. ¬R(Pleasure)
+So pleasure is not useful. ¬U(x) 
+
+This is Modus Tollens (否定后件) The argument is valid.
+
+But is this argument sound?
+
+P1: Good is beneficial (Not much controversy)
+P2: If a person means something beneficial, then he will regret. (water is beneficial, but men won't regret for not having a cup of water)
+P3: No good person would regret for missing pleasure (What is good person)
+
+The argument is not sound.
+
+
+
+### Understanding  His Acts 
+
+> Whenever you meet someone, ask yourself first this immediate question: 'What beliefs does this person hold about the good and bad in life?'  (8.14)
+
+- **快乐与痛苦**：他把什么当作值得追求的快乐、必须避免的痛苦？
+- **名声与耻辱**：他有多在乎别人怎么看他？
+- **死亡与生命**：他有多怕死、多贪生？
+
+
+
+### Proper work 
+
+> Man's joy is to do man's proper work. And work proper to man is benevolence to his own kind, disdain for the stirrings of senses, diagnosis of the impressions he can trust, contemplation of universal nature and all things thereby entailed.
 

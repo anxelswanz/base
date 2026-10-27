@@ -2,7 +2,6 @@
 Ad 50 - 135 /  Roman philosopher / slave at birth 
 
 
-
 # Distinguishing between what is within our control and what is not
 
 Some things are in our control—such as judgment, desire, aversion, and whatever are our own actions; other things are not—such as body, property, reputation, and office. The key to happiness is to care only about the former and to accept the latter with composure.

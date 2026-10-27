@@ -12,4 +12,3 @@ Mr Darcy's Bust
 - Chartsworth House is the property of Cavendish family (Duke of Devonshire)
 - 6th Duke of Devonshire used Neoclassical Sculpture in Sculpture Gallery
 - Mary Queen of Scotland is held in this bedroom, and for 20 years, she's been moved around the places just in case there's someone coming to save her.
-- 

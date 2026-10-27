@@ -1,0 +1,2 @@
+- **English:** A paradigm is the set of theories, methods, standards, and exemplary achievements that a scientific community shares at a given time. It defines which problems are worth studying, which methods are legitimate, and what counts as a valid solution. When anomalies accumulate that the paradigm cannot explain, a “paradigm shift” may occur, as when Newtonian physics gave way to Einstein’s relativity.
+- **中文：** 范式是某一时期科学共同体所共享的理论、方法、标准和典范性成就的总和。它规定了哪些问题值得研究、哪些方法是正当的、什么才算有效的解答。当范式无法解释的反常现象不断积累时，就可能发生"范式转换"，例如从牛顿物理学到爱因斯坦相对论的转变。

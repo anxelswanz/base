@@ -1,3 +1,9 @@
+
+```
+这个世界上有没有正义？如果有，什么是正义？
+正义的人是否比不正义的人更幸福？
+```
+
 # Chapter 1
 
 > 正义就是欠债还钱 Pay what you owe
@@ -89,12 +95,14 @@ Socrates' understanding of wisdom operates on two levels:
 2. Political foresight
 
 2.2 Bravery
-Socrates thinks bravery is perservation. 
+Socrates thinks bravery is perservation of belief. 
 When facing pleasure, pain, desire and fear, man's convictions never fade.
 
 2.3 Temperance
  > [!"..within the man himself, in his soul, there is a **better part** and a **worse part**; and that when the **better part**, which is naturally smaller, **is master of the worse**, which is larger, this is called **‘being master of oneself’**, and it is an expression of praise...]
- 
+
+The temperance in city: the common people willingly allow the wise to rule without usurping the power while the rulers 
+
 2.4 Justice （or Righteousness）
 
 > [!that **each one man must perform one social service in the state for which his nature was best adapted**... And further, that **this doing one's own business and not being a busybody is justice**, this also we have heard from many others and have often said ourselves.]
@@ -109,11 +117,35 @@ Socrates compared reason, desire, and spirit to three different musical notes, a
 
 ## 3. Three Parts of the Soul (Platonic tripartite soul)
 
-理智 Logistikon Reason 
-血气 Thumos Spirit 
-欲望 Epithumetikon desire 
+
+>一个人很渴，他想喝水，但是要是有什么东西把口渴的灵魂拉开，不让喝东西，必然是有一种不同口渴的东西，阻止他喝东西。
+  我们可以推断出阻止他喝东西的力量，来自理性, 他喝的力量，来自激情和疾病。
+
+理智 Logistikon Reason (主导地位)：理性负责思考、计算和判断，能够认识什么是真正的好。
+血气/激情 Thumos Spirit ：激情是愤怒、荣誉感、勇气和羞耻心的来源。
+欲望 Epithumetikon desire ：欲望追求食、色、钱财这类身体上的满足。
+
+什么是激情?
+
+>一个人的欲望，大大超过了理智。他会骂自己，对自己身体的这种力量感到愤怒。
+
+正义
+
+城邦的正义是城邦里的人各司其职，个人的正义
+是他内心的三个力量的自然协调
+
+> 正义的人，会把自身灵魂三部分协调好，就像音乐会把高、中、低音协调好一样，就像音乐会适当停顿一样。
+> ..
+> 努力保持这种状态就是正义，破坏这种和谐状态的，就是不正义。
+
+
 
 罗翔的观点非常好，勇敢做我自己，那么你要勇敢做你自己的哪个部分呢？
+
+
+
+
+
 
 
 # Chapter 7
